@@ -1,6 +1,6 @@
 # 🛡️ Zero Trust Architecture Playbook
 
-> Enterprise Zero Trust implementation guide — battle-tested across 30+ companies at Reliance Group.
+> Enterprise Zero Trust implementation guide — battle-tested across 30+ companies at a conglomerate.
 
 ## What's Inside
 - Zero Trust maturity assessment framework
